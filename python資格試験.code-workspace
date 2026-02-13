@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../python勉強"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
